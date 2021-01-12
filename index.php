@@ -61,6 +61,7 @@ if(isset($_POST['submit'])){
             <p>stap 3 -: Copy link address </p>
             <p>stap 4 -: Past in input box</p>
             <p>stap 5 -: Ex. https://www.youtube.com/watch?v=TOMh0liO--8</p>
+            <p></p>
         </div>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"
