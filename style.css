@@ -1,0 +1,45 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    -webkit-font-smotthing:antialiased;
+}
+
+body{
+    font-family: 'poppins',sans-serif;
+    background-color: #282c34;
+    color: aliceblue;
+    
+}
+
+h1{
+    text-align: center;
+    margin: 3rem;
+}
+
+h1 img{
+    height: 100px;
+    width: 100px;
+}
+
+
+.steps{
+    margin: 4rem 19rem;
+}
+
+.steps p{
+    font-size: 1.3rem;
+}
+
+.flex{
+    display: flex;
+
+}
+
+.inputtype{
+    border: 2px solid black;
+    border-radius: 40px ;
+    width: 40rem;
+    margin-left: 290px;
+}
+
